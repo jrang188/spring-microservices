@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "spring-cloud-config-server"
+		},
+		{
+			"path": "currency-exchange-service"
 		}
 	],
 	"settings": {
